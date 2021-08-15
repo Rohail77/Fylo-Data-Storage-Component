@@ -1,7 +1,7 @@
 # Fylo Data Storage Component
 
 ## About the App
-This is a challenge from [Frontend Mento](https://www.frontendmentor.io/) website in which I tried to build a responsive page according to the design provided.
+This is a challenge from [Frontend Mentor](https://www.frontendmentor.io/) website in which I tried to build a responsive page according to the design provided.
 The app can be previewed on [this link](https://fylo-data-storage-component-rohail.vercel.app/)
 
 ## Tools Used
